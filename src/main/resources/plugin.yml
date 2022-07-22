@@ -1,0 +1,9 @@
+name: SeenPlugin
+main: com.github.AndrewAlbizati.Main
+version: 1.0.0
+description: A Plugin that shows when the last time a player was seen on a server.
+author: Andrew Albizati
+api-version: 1.18
+commands:
+  seen:
+    description: Shows when a player was last online.
